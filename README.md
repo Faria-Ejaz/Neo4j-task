@@ -13,3 +13,10 @@ after that one layer per row with spaces between the values per layer.
 7 8 9 10
 
 The output from the program of the above pyramid would be: 14 (the sum of the path 1, 2, 4, 7)
+```
+
+### run
+
+```
+node app.js
+```
